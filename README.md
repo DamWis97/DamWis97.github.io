@@ -12,4 +12,6 @@
   - Simulation of Business Processes with JaamSim
 
 ## Projects
-### Electricity Price Forecast
+
+###  - Electricity Price Forecast
+  ![Electricity](/assets/img/electricity.jpeg)
