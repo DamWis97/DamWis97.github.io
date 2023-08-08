@@ -1,8 +1,8 @@
 # Damian Wisniewski - Aspiring Business Analyst
 
 #### Education						       		
-- M.S., Business Analytics	| Norwegian School of Economics (_August 2022 - June 2024_)	 			        		
-- B.S., Business and Administration | Norwegian School of Economics (_August 2019 - June 2022_)
+  - M.S., Business Analytics	| Norwegian School of Economics (_August 2022 - June 2024_)	 			        		
+  - B.S., Business and Administration | Norwegian School of Economics (_August 2019 - June 2022_)
 
 ### Technical Skills:
   - Predictive analytics using statistical learning with R
