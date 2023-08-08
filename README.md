@@ -1,4 +1,4 @@
-# Damian Wisniewski - Aspiring Business Analyst
+# Aspiring Business Analyst
 
 #### Education						       		
   - M.S., Business Analytics	| Norwegian School of Economics (_August 2022 - June 2024_)	 			        		
