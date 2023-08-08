@@ -1,6 +1,6 @@
 # Aspiring Business Analyst
 
-## Education						       		
+## Education:						       		
   - M.S., Business Analytics - Norwegian School of Economics (_August 2022 - June 2024_)	 			        		
   - B.S., Business and Administration - Norwegian School of Economics (_August 2019 - June 2022_)
 
@@ -11,7 +11,7 @@
   - Dashboard for data science development using Python
   - Simulation of Business Processes with JaamSim
 
-## Projects
+## Projects:
 
-#### Electricity price forecasting for Western Norway based on daily price observations: [Electricity Price Forecast](https://damwis97.github.io/Electricity_Forecast/)
+#### 1: Electricity price forecasting for Western Norway based on daily price observations: [Electricity Price Forecast](https://damwis97.github.io/Electricity_Forecast/)
 ![electricity](/assets/img/electricity.jpg)
