@@ -1,11 +1,15 @@
-# Damian Wisniewski - Business Analyst
+# Damian Wisniewski - Aspiring Business Analyst
 
-### Education
-Business Analytics NHH - Graduation June 2024
+#### Technical Skills:
+  - Predictive analytics using statistical learning with R
+  - Forecasting and analyzing time series data with R
+  - Mathematical modelling and optimization using AMPL
+  - Dashboard for data science development using Python
+  - Simulation of Business Processes with JaamSim
 
-### Projects
-Electricity Price Forecast
+## Education						       		
+- M.S., Business Analytics	| Norwegian School of Economics (_June 2024_)	 			        		
+- B.S., Business and Administration | Norwegian School of Economics (_June 2023_)
 
-
-
-
+## Projects
+### Electricity Price Forecast
