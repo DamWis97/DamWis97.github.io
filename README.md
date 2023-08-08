@@ -14,4 +14,4 @@
 ## Projects
 
 ###  - Electricity Price Forecast
-![electricity](/assets/img/electricity.jpeg)
+![electricity](/assets/img/electricity.jpg)
