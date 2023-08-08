@@ -13,5 +13,6 @@
 
 ## Projects
 
-###  - [Electricity Price Forecast]([Electricity_Forecast.html](https://github.com/DamWis97/Electricity_Forecast/blob/main/Electricity_Forecast.html)https://github.com/DamWis97/Electricity_Forecast/blob/main/Electricity_Forecast.html)
+###  - [Electricity Price Forecast](https://github.com/DamWis97/Electricity_Forecast/blob/main/Electricity_Forecast.html)https://github.com/DamWis97/Electricity_Forecast/blob/main/Electricity_Forecast.html)
+
 ![electricity](/assets/img/electricity.jpg)
