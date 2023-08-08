@@ -13,7 +13,7 @@
 
 ## Projects
 
-  ### - Electricity price forecasting for Western Norway based on daily price observations.
+  ### Electricity price forecasting for Western Norway based on daily price observations.
 [Electricity Price Forecast](https://damwis97.github.io/Electricity_Forecast/)
  
 ![electricity](/assets/img/electricity.jpg)
