@@ -15,3 +15,6 @@
 
 #### 1: Electricity price forecasting for Western Norway based on daily price observations: [Electricity Price Forecast](https://damwis97.github.io/Electricity_Forecast/)
 ![electricity](/assets/img/electricity.jpg)
+
+#### 2: Predicting average bill and churning for internet providing company: [Internet Data Predictions](https://damwis97.github.io/Churn-_Prediction/)
+![internet](/assets/img/internet.jpg)
